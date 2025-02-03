@@ -1,2 +1,2 @@
 # Calculator
-This is my first Dynamic Calculator THat I made with Python(Tkinter) .!  
+This is my first Dynamic Calculator That I made with Python(Tkinter) .!  
